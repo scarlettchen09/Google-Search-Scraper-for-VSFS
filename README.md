@@ -1,3 +1,5 @@
+# Google-Search-Scraper-for-VSFS
+
 # Downloading the program
 To get this program, click on Code > Download ZIP at the Github page (where you are right now). If you have experience with Git, you can clone it with Git instead.
 
@@ -15,6 +17,7 @@ Anaconda comes with Python, Jupyter Notebook, as well as many other libraries in
 2. Run the installer with default settings. After, Anaconda will be installed onto your computer! 
 
 3. For Windows, type Anaconda in the search bar and run Anaconda Navigator. A menu will open where you can select and start Jupyter Notebook. 
+
 ![Search bar](https://i.imgur.com/mGggzuf.png)
 
 4. Use the file navigator in the Jupyter Notebook to navigate to the .iypnyb file. Select Run>Run all to run the program. 
