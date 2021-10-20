@@ -20,7 +20,7 @@ Anaconda comes with Python, Jupyter Notebook, as well as many other libraries in
 
 ![Search bar](https://i.imgur.com/mGggzuf.png)
 
-4. Use the file navigator in the Jupyter Notebook to navigate to the .iypnyb file. Select Run>Run all to run the program. 
+4. Use the file navigator in the Jupyter Notebook to navigate to the .ipynb file. Select Cell>Run all to run the program. 
 
 ![Jupyter Notebook](https://i.imgur.com/4Tv3hP6.png) ![Run all](https://i.imgur.com/HKSKnn7.png)
 ## Alternative method (pip):
@@ -48,7 +48,7 @@ install the needed libraries in the next step.
 On Windows, you can do this by opening the command prompt, and typing in
 1. `python -m pip install --upgrade pip`
 2. `python -m pip install requests`
-3. `python -m pip install beautifulsoup4`
+3. `python -m pip install bs4`
 4. `python -m pip install notebook`
 3) Run the Jupyter Notebook file: google_search_scraper.ipynb
 On Windows, to run Jupyter Notebook, you can go in the command prompt and type in `jupyter notebook` which should open the notebook and allow you to select the file you want to open.
