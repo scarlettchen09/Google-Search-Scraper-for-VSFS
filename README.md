@@ -18,11 +18,11 @@ Anaconda comes with Python, Jupyter Notebook, as well as many other libraries in
 
 3. For Windows, type Anaconda in the search bar and run Anaconda Navigator. A menu will open where you can select and start Jupyter Notebook. 
 
-![Search bar](https://i.imgur.com/mGggzuf.png)
+![Search bar](https://i.imgur.com/mGggzuf.png) ![Jupyter Notebook](https://i.imgur.com/4Tv3hP6.png) 
 
 4. Use the file navigator in the Jupyter Notebook to navigate to the .ipynb file. Select Cell>Run all to run the program. 
 
-![Jupyter Notebook](https://i.imgur.com/4Tv3hP6.png) ![Run all](https://i.imgur.com/HKSKnn7.png)
+![Run all](https://i.imgur.com/HKSKnn7.png)
 ## Alternative method (pip):
 
 If you already have experience programming, such as already having Python installed and familiarity with installing packages with the command line or `pip`, an alternative method is using `pip` and only installing the libraries needed for this program. 
