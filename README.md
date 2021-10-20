@@ -1,7 +1,7 @@
 # Google-Search-Scraper-for-VSFS
 
 # Downloading the program
-To get this program, click on Code > Download ZIP at the Github page (where you are right now). If you have experience with Git, you can clone it with Git instead.
+To get this program, click on Code > Download ZIP at the Github page (where you are right now). Once you had it downloaded, make sure to **extract** the file from a .zip to folder. If you have experience with Git, you can clone it with Git instead.
 
 ![Download location of program](https://i.imgur.com/lXbJ5pz.png)
 
